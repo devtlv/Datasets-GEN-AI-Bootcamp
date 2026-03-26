@@ -1,0 +1,241 @@
+Month,Region,Product Category,Revenue ($K),Units Sold,Margin %
+Jan 2025,North,Outdoor Furniture,42,180,38
+Jan 2025,North,Garden Tools,28,320,42
+Jan 2025,North,Lighting,18,210,45
+Jan 2025,North,Planters & Pots,12,280,50
+Jan 2025,North,Seasonal Decor,8,150,35
+Jan 2025,South,Outdoor Furniture,38,165,37
+Jan 2025,South,Garden Tools,25,290,41
+Jan 2025,South,Lighting,15,185,44
+Jan 2025,South,Planters & Pots,14,310,51
+Jan 2025,South,Seasonal Decor,10,175,36
+Jan 2025,East,Outdoor Furniture,30,130,36
+Jan 2025,East,Garden Tools,22,255,40
+Jan 2025,East,Lighting,14,170,43
+Jan 2025,East,Planters & Pots,10,240,49
+Jan 2025,East,Seasonal Decor,6,120,33
+Jan 2025,West,Outdoor Furniture,35,155,37
+Jan 2025,West,Garden Tools,26,300,42
+Jan 2025,West,Lighting,16,195,44
+Jan 2025,West,Planters & Pots,11,260,50
+Jan 2025,West,Seasonal Decor,7,135,34
+Feb 2025,North,Outdoor Furniture,40,170,38
+Feb 2025,North,Garden Tools,30,340,43
+Feb 2025,North,Lighting,19,220,45
+Feb 2025,North,Planters & Pots,13,290,50
+Feb 2025,North,Seasonal Decor,9,160,35
+Feb 2025,South,Outdoor Furniture,36,158,37
+Feb 2025,South,Garden Tools,27,305,42
+Feb 2025,South,Lighting,16,192,44
+Feb 2025,South,Planters & Pots,15,320,51
+Feb 2025,South,Seasonal Decor,11,182,37
+Feb 2025,East,Outdoor Furniture,28,125,35
+Feb 2025,East,Garden Tools,23,262,41
+Feb 2025,East,Lighting,15,178,43
+Feb 2025,East,Planters & Pots,11,248,49
+Feb 2025,East,Seasonal Decor,7,128,34
+Feb 2025,West,Outdoor Furniture,33,148,37
+Feb 2025,West,Garden Tools,27,310,42
+Feb 2025,West,Lighting,17,202,45
+Feb 2025,West,Planters & Pots,12,268,50
+Feb 2025,West,Seasonal Decor,8,142,35
+Mar 2025,North,Outdoor Furniture,48,205,39
+Mar 2025,North,Garden Tools,35,380,44
+Mar 2025,North,Lighting,22,245,46
+Mar 2025,North,Planters & Pots,16,320,51
+Mar 2025,North,Seasonal Decor,12,195,37
+Mar 2025,South,Outdoor Furniture,44,190,38
+Mar 2025,South,Garden Tools,32,345,43
+Mar 2025,South,Lighting,19,215,45
+Mar 2025,South,Planters & Pots,17,345,52
+Mar 2025,South,Seasonal Decor,14,210,38
+Mar 2025,East,Outdoor Furniture,35,152,37
+Mar 2025,East,Garden Tools,28,295,42
+Mar 2025,East,Lighting,18,198,44
+Mar 2025,East,Planters & Pots,13,272,50
+Mar 2025,East,Seasonal Decor,9,148,35
+Mar 2025,West,Outdoor Furniture,40,175,38
+Mar 2025,West,Garden Tools,30,335,43
+Mar 2025,West,Lighting,20,225,45
+Mar 2025,West,Planters & Pots,14,295,51
+Mar 2025,West,Seasonal Decor,10,162,36
+Apr 2025,North,Outdoor Furniture,55,235,40
+Apr 2025,North,Garden Tools,40,420,45
+Apr 2025,North,Lighting,24,260,46
+Apr 2025,North,Planters & Pots,18,340,52
+Apr 2025,North,Seasonal Decor,15,225,38
+Apr 2025,South,Outdoor Furniture,50,218,39
+Apr 2025,South,Garden Tools,37,385,44
+Apr 2025,South,Lighting,22,238,45
+Apr 2025,South,Planters & Pots,19,365,52
+Apr 2025,South,Seasonal Decor,16,235,39
+Apr 2025,East,Outdoor Furniture,40,175,38
+Apr 2025,East,Garden Tools,32,325,43
+Apr 2025,East,Lighting,20,215,44
+Apr 2025,East,Planters & Pots,15,295,50
+Apr 2025,East,Seasonal Decor,11,168,36
+Apr 2025,West,Outdoor Furniture,46,200,39
+Apr 2025,West,Garden Tools,34,360,44
+Apr 2025,West,Lighting,22,242,46
+Apr 2025,West,Planters & Pots,16,318,51
+Apr 2025,West,Seasonal Decor,12,185,37
+May 2025,North,Outdoor Furniture,62,268,40
+May 2025,North,Garden Tools,45,475,45
+May 2025,North,Lighting,26,278,46
+May 2025,North,Planters & Pots,20,365,52
+May 2025,North,Seasonal Decor,17,248,38
+May 2025,South,Outdoor Furniture,57,248,39
+May 2025,South,Garden Tools,42,428,44
+May 2025,South,Lighting,24,258,45
+May 2025,South,Planters & Pots,21,392,52
+May 2025,South,Seasonal Decor,18,258,39
+May 2025,East,Outdoor Furniture,46,200,38
+May 2025,East,Garden Tools,36,368,43
+May 2025,East,Lighting,22,232,44
+May 2025,East,Planters & Pots,17,318,51
+May 2025,East,Seasonal Decor,13,185,36
+May 2025,West,Outdoor Furniture,52,228,39
+May 2025,West,Garden Tools,38,398,44
+May 2025,West,Lighting,24,262,46
+May 2025,West,Planters & Pots,18,342,51
+May 2025,West,Seasonal Decor,14,205,37
+Jun 2025,North,Outdoor Furniture,68,292,41
+Jun 2025,North,Garden Tools,42,448,45
+Jun 2025,North,Lighting,25,272,46
+Jun 2025,North,Planters & Pots,19,355,52
+Jun 2025,North,Seasonal Decor,20,278,39
+Jun 2025,South,Outdoor Furniture,62,270,40
+Jun 2025,South,Garden Tools,38,402,44
+Jun 2025,South,Lighting,23,248,45
+Jun 2025,South,Planters & Pots,20,378,52
+Jun 2025,South,Seasonal Decor,22,285,40
+Jun 2025,East,Outdoor Furniture,50,218,39
+Jun 2025,East,Garden Tools,33,345,43
+Jun 2025,East,Lighting,21,225,45
+Jun 2025,East,Planters & Pots,16,308,51
+Jun 2025,East,Seasonal Decor,15,205,37
+Jun 2025,West,Outdoor Furniture,58,252,40
+Jun 2025,West,Garden Tools,36,378,44
+Jun 2025,West,Lighting,23,255,46
+Jun 2025,West,Planters & Pots,17,332,51
+Jun 2025,West,Seasonal Decor,17,225,38
+Jul 2025,North,Outdoor Furniture,65,280,41
+Jul 2025,North,Garden Tools,38,408,44
+Jul 2025,North,Lighting,26,282,46
+Jul 2025,North,Planters & Pots,18,345,51
+Jul 2025,North,Seasonal Decor,24,312,40
+Jul 2025,South,Outdoor Furniture,60,262,40
+Jul 2025,South,Garden Tools,35,375,43
+Jul 2025,South,Lighting,24,258,45
+Jul 2025,South,Planters & Pots,19,368,52
+Jul 2025,South,Seasonal Decor,26,318,41
+Jul 2025,East,Outdoor Furniture,48,210,39
+Jul 2025,East,Garden Tools,30,318,43
+Jul 2025,East,Lighting,22,232,45
+Jul 2025,East,Planters & Pots,15,298,50
+Jul 2025,East,Seasonal Decor,18,225,38
+Jul 2025,West,Outdoor Furniture,55,242,40
+Jul 2025,West,Garden Tools,33,352,44
+Jul 2025,West,Lighting,24,262,46
+Jul 2025,West,Planters & Pots,16,322,51
+Jul 2025,West,Seasonal Decor,20,248,39
+Aug 2025,North,Outdoor Furniture,60,258,40
+Aug 2025,North,Garden Tools,35,378,44
+Aug 2025,North,Lighting,27,292,47
+Aug 2025,North,Planters & Pots,17,335,51
+Aug 2025,North,Seasonal Decor,22,295,39
+Aug 2025,South,Outdoor Furniture,56,245,39
+Aug 2025,South,Garden Tools,32,348,43
+Aug 2025,South,Lighting,25,268,45
+Aug 2025,South,Planters & Pots,18,358,52
+Aug 2025,South,Seasonal Decor,24,302,40
+Aug 2025,East,Outdoor Furniture,45,198,38
+Aug 2025,East,Garden Tools,28,298,42
+Aug 2025,East,Lighting,23,242,45
+Aug 2025,East,Planters & Pots,14,285,50
+Aug 2025,East,Seasonal Decor,17,215,37
+Aug 2025,West,Outdoor Furniture,52,228,40
+Aug 2025,West,Garden Tools,30,322,43
+Aug 2025,West,Lighting,25,272,46
+Aug 2025,West,Planters & Pots,15,312,51
+Aug 2025,West,Seasonal Decor,19,238,38
+Sep 2025,North,Outdoor Furniture,50,215,39
+Sep 2025,North,Garden Tools,30,328,43
+Sep 2025,North,Lighting,30,315,47
+Sep 2025,North,Planters & Pots,16,318,51
+Sep 2025,North,Seasonal Decor,18,252,38
+Sep 2025,South,Outdoor Furniture,46,202,38
+Sep 2025,South,Garden Tools,27,298,42
+Sep 2025,South,Lighting,27,288,46
+Sep 2025,South,Planters & Pots,17,338,51
+Sep 2025,South,Seasonal Decor,20,268,38
+Sep 2025,East,Outdoor Furniture,36,158,37
+Sep 2025,East,Garden Tools,23,252,41
+Sep 2025,East,Lighting,26,272,45
+Sep 2025,East,Planters & Pots,13,268,50
+Sep 2025,East,Seasonal Decor,14,195,36
+Sep 2025,West,Outdoor Furniture,43,188,38
+Sep 2025,West,Garden Tools,25,275,42
+Sep 2025,West,Lighting,28,298,46
+Sep 2025,West,Planters & Pots,14,295,51
+Sep 2025,West,Seasonal Decor,16,215,37
+Oct 2025,North,Outdoor Furniture,44,190,38
+Oct 2025,North,Garden Tools,25,282,42
+Oct 2025,North,Lighting,34,358,47
+Oct 2025,North,Planters & Pots,15,305,50
+Oct 2025,North,Seasonal Decor,22,295,39
+Oct 2025,South,Outdoor Furniture,40,175,37
+Oct 2025,South,Garden Tools,22,258,41
+Oct 2025,South,Lighting,31,328,46
+Oct 2025,South,Planters & Pots,16,325,51
+Oct 2025,South,Seasonal Decor,24,312,39
+Oct 2025,East,Outdoor Furniture,32,140,36
+Oct 2025,East,Garden Tools,18,208,40
+Oct 2025,East,Lighting,29,305,45
+Oct 2025,East,Planters & Pots,12,258,49
+Oct 2025,East,Seasonal Decor,18,238,37
+Oct 2025,West,Outdoor Furniture,38,168,37
+Oct 2025,West,Garden Tools,21,242,41
+Oct 2025,West,Lighting,32,338,46
+Oct 2025,West,Planters & Pots,13,282,50
+Oct 2025,West,Seasonal Decor,20,258,38
+Nov 2025,North,Outdoor Furniture,36,158,37
+Nov 2025,North,Garden Tools,18,212,41
+Nov 2025,North,Lighting,38,398,48
+Nov 2025,North,Planters & Pots,12,278,50
+Nov 2025,North,Seasonal Decor,28,362,40
+Nov 2025,South,Outdoor Furniture,33,145,36
+Nov 2025,South,Garden Tools,16,192,40
+Nov 2025,South,Lighting,34,358,47
+Nov 2025,South,Planters & Pots,13,298,51
+Nov 2025,South,Seasonal Decor,30,378,40
+Nov 2025,East,Outdoor Furniture,25,112,35
+Nov 2025,East,Garden Tools,13,158,39
+Nov 2025,East,Lighting,32,338,46
+Nov 2025,East,Planters & Pots,9,222,48
+Nov 2025,East,Seasonal Decor,22,285,38
+Nov 2025,West,Outdoor Furniture,30,135,36
+Nov 2025,West,Garden Tools,15,178,40
+Nov 2025,West,Lighting,36,375,47
+Nov 2025,West,Planters & Pots,10,248,49
+Nov 2025,West,Seasonal Decor,25,318,39
+Dec 2025,North,Outdoor Furniture,32,140,37
+Dec 2025,North,Garden Tools,15,178,40
+Dec 2025,North,Lighting,42,438,48
+Dec 2025,North,Planters & Pots,11,258,50
+Dec 2025,North,Seasonal Decor,38,468,41
+Dec 2025,South,Outdoor Furniture,30,132,36
+Dec 2025,South,Garden Tools,13,158,39
+Dec 2025,South,Lighting,38,398,47
+Dec 2025,South,Planters & Pots,12,278,51
+Dec 2025,South,Seasonal Decor,40,495,42
+Dec 2025,East,Outdoor Furniture,22,100,35
+Dec 2025,East,Garden Tools,11,135,38
+Dec 2025,East,Lighting,36,378,46
+Dec 2025,East,Planters & Pots,8,202,48
+Dec 2025,East,Seasonal Decor,30,375,39
+Dec 2025,West,Outdoor Furniture,28,125,36
+Dec 2025,West,Garden Tools,12,148,39
+Dec 2025,West,Lighting,40,415,48
+Dec 2025,West,Planters & Pots,9,228,49
+Dec 2025,West,Seasonal Decor,35,432,41
