@@ -1,0 +1,31 @@
+Transaction ID,Date,Sales Rep,Branch,Product Name,Product Category,Revenue,Customer ID,Notes
+TXN-001,03/05/2026,Jane Smith,Branch A,Widget Pro 2000,Hardware,$1,234.00,CUST-401,
+TXN-002,2026-03-06,J. Smith,Branch A,Widget Pro 2000,,1234,CUST-402,Possible duplicate
+TXN-003,06-Mar-2026,M. Johnson,Branch C,DataSync Premium,Software,$890.00,CUST-403,
+TXN-004,03/07/2026,Mike Johnson,Branch A,DataSync Premium,Software,$890.00,CUST-403,
+TXN-005,2026-03-08,Lisa Patel,Branch B,CloudBackup Basic,,750,CUST-404,
+TXN-006,08-Mar-2026,lisa patel,Branch B,CloudBackup Basic,Software,$750.00,CUST-404,Possible duplicate
+TXN-007,03/09/2026,D. Williams,Branch A,Widget Pro 2000,Hardware,$1234.00,CUST-405,
+TXN-008,2026-03-10,Diana Williams,Branch A,TrackPro Suite,,2100,CUST-406,
+TXN-009,10-Mar-2026,R. Thompson,Branch C,TrackPro Suite,Enterprise,$2,100.00,CUST-407,
+TXN-010,03/11/2026,Ryan Thompson,Branch C,CloudBackup Basic,Software,$750.00,CUST-408,
+TXN-011,2026-03-12,Jane Smith,Branch A,DataSync Premium,,890,CUST-409,
+TXN-012,12-Mar-2026,J. Smith,Branch A,DataSync Premium,Software,$890.00,CUST-409,Possible duplicate
+TXN-013,03/13/2026,Mike Johnson,Branch A,Widget Pro 2000,Hardware,$1,234.00,CUST-410,
+TXN-014,2026-03-14,M. Johnson,Branch C,TrackPro Suite,,2100,CUST-411,
+TXN-015,14-Mar-2026,Lisa Patel,Branch B,Widget Pro 2000,Hardware,$1234.00,CUST-412,
+TXN-016,03/15/2026,Diana Williams,Branch A,CloudBackup Basic,,750,CUST-413,
+TXN-017,2026-03-16,D. Williams,Branch A,CloudBackup Basic,Software,$750.00,CUST-413,Possible duplicate
+TXN-018,16-Mar-2026,Ryan Thompson,Branch C,DataSync Premium,Software,$890.00,CUST-414,
+TXN-019,03/17/2026,jane smith,Branch A,TrackPro Suite,,2100,CUST-415,
+TXN-020,2026-03-18,Jane Smith,Branch A,TrackPro Suite,Enterprise,$2,100.00,CUST-415,Possible duplicate
+TXN-021,18-Mar-2026,Mike Johnson,Branch A,Widget Pro 2000,Hardware,$1234.00,CUST-416,
+TXN-022,03/19/2026,Lisa Patel,Branch B,DataSync Premium,,890,CUST-417,
+TXN-023,2026-03-20,R. Thompson,Branch C,CloudBackup Basic,Software,$750.00,CUST-418,
+TXN-024,20-Mar-2026,Diana Williams,Branch A,TrackPro Suite,Enterprise,$2100.00,CUST-419,
+TXN-025,03/21/2026,J. Smith,Branch A,Widget Pro 2000,,1234,CUST-420,
+TXN-026,2026-03-22,Mike Johnson,Branch A,Widget Pro 2000,Hardware,$1,234.00,CUST-421,
+TXN-027,22-Mar-2026,lisa patel,Branch B,CloudBackup Basic,,750,CUST-422,
+TXN-028,03/23/2026,Ryan Thompson,Branch C,DataSync Premium,Software,$890.00,CUST-423,
+TXN-029,2026-03-24,D. Williams,Branch A,TrackPro Suite,Enterprise,$2100.00,CUST-424,
+TXN-030,24-Mar-2026,Jane Smith,Branch A,Widget Pro 2000,,1234,CUST-425,

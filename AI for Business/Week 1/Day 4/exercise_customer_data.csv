@@ -1,0 +1,31 @@
+Customer ID,First Name,Last Name,Email,Phone,Company,Industry,Region,Account Status,Last Purchase Date,Total Spend,Products Owned,Support Tickets Open,NPS Score,Notes
+CUST-101,Sarah,Mitchell,sarah.mitchell@brightcorp.com,+1-212-555-0101,BrightCorp Inc.,Retail,Northeast,Active,03/10/2026,$4,520.00,Widget Pro 2000,0,8,
+CUST-102,David,Chen,david.chen@techwave.io,+1-415-555-0202,TechWave,Technology,West,Active,2026-03-08,$12,300.00,"TrackPro Suite, DataSync Premium",1,9,
+CUST-103,Amanda,Torres,amanda.torres@greenfield.com,,Greenfield Partners,Finance,South,Active,08-Mar-2026,$7,800.00,DataSync Premium,2,7,Missing phone
+CUST-104,James,O'Brien,jobrien@novahealthcare.net,+1-617-555-0303,Nova Healthcare,Healthcare,Northeast,Active,03/05/2026,$3,150.00,CloudBackup Basic,0,6,
+CUST-105,Rachel,Kim,rachel.kim@summitretail.com,+1-312-555-0404,Summit Retail,Retail,Midwest,Inactive,2026-01-15,$950.00,CloudBackup Basic,0,,No NPS response
+CUST-106,Tom,Nguyen,t.nguyen@alphalogistics.com,+1-503-555-0505,Alpha Logistics,Logistics,West,Active,05-Mar-2026,$18,600.00,"TrackPro Suite, Widget Pro 2000, DataSync Premium",3,10,
+CUST-107,Jennifer,Walsh,jwalsh@cityfinancial.org,,City Financial,Finance,Northeast,Active,03/12/2026,$5,400.00,DataSync Premium,1,8,Missing phone
+CUST-108,Marcus,Brown,marcus.brown@elevateglobal.com,+1-404-555-0606,Elevate Global,Consulting,South,Active,2026-03-11,$9,200.00,"TrackPro Suite, CloudBackup Basic",0,9,
+CUST-109,Lisa,Fernandez,l.fernandez@peakmanufacture.com,+1-216-555-0707,Peak Manufacturing,Manufacturing,Midwest,Active,11-Mar-2026,$21,000.00,TrackPro Suite,2,7,
+CUST-110,Chris,Patel,chris.patel@brightcorp.com,+1-212-555-0108,BrightCorp Inc.,Retail,Northeast,Active,03/09/2026,$6,750.00,"Widget Pro 2000, CloudBackup Basic",0,8,Possible duplicate account - same company as CUST-101
+CUST-111,Nicole,Stewart,nicole.stewart@bluehorizon.co,+1-720-555-0808,Blue Horizon Co.,Technology,West,Inactive,2026-02-20,$1,200.00,CloudBackup Basic,0,5,
+CUST-112,Robert,Yamamoto,r.yamamoto@deltaconstruct.net,,Delta Construction,Construction,South,Active,20-Feb-2026,$14,400.00,"TrackPro Suite, DataSync Premium",4,6,Missing phone; high open tickets
+CUST-113,Emily,Carter,emily.carter@northstarenergy.com,+1-651-555-0909,NorthStar Energy,Energy,Midwest,Active,03/07/2026,$8,100.00,DataSync Premium,1,8,
+CUST-114,Anthony,Reyes,a.reyes@primepharma.com,+1-215-555-1010,Prime Pharma,Healthcare,Northeast,Active,2026-03-06,$33,500.00,"TrackPro Suite, DataSync Premium, Widget Pro 2000",0,10,
+CUST-115,Stephanie,Lee,stephanie.lee@coastalwholesale.com,+1-619-555-1111,Coastal Wholesale,Retail,West,Active,06-Mar-2026,$4,900.00,Widget Pro 2000,2,,No NPS response
+CUST-116,Kevin,Morris,kevin.morris@apexinsurance.com,+1-212-555-1212,Apex Insurance,Finance,Northeast,Active,03/14/2026,$11,700.00,TrackPro Suite,0,9,
+CUST-117,Diana,Holloway,d.holloway@urbanproperties.net,,Urban Properties,Real Estate,South,Inactive,2025-11-30,$2,300.00,CloudBackup Basic,0,4,Last contact over 3 months ago
+CUST-118,Samuel,Park,s.park@greatlakeslogistics.com,+1-414-555-1313,Great Lakes Logistics,Logistics,Midwest,Active,14-Mar-2026,$16,200.00,"TrackPro Suite, Widget Pro 2000",1,8,
+CUST-119,Patricia,Gomez,patricia.gomez@suncoasthotel.com,+1-305-555-1414,Suncoast Hotel Group,Hospitality,South,Active,03/13/2026,$7,600.00,DataSync Premium,0,7,
+CUST-120,Brian,Watkins,b.watkins@vortextech.io,+1-512-555-1515,Vortex Tech,Technology,South,Active,2026-03-15,$25,800.00,"TrackPro Suite, DataSync Premium, CloudBackup Basic",2,9,
+CUST-121,Megan,Collins,megan.collins@redwoodfinance.com,+1-415-555-1616,Redwood Finance,Finance,West,Active,15-Mar-2026,$13,100.00,TrackPro Suite,0,8,
+CUST-122,Jason,Butler,j.butler@midwestmedia.com,+1-312-555-1717,Midwest Media,Media,Midwest,Inactive,2026-01-22,$880.00,CloudBackup Basic,1,,No NPS response
+CUST-123,Lauren,Price,lauren.price@horizonhr.com,+1-704-555-1818,Horizon HR,HR Services,South,Active,03/16/2026,$5,600.00,DataSync Premium,0,9,
+CUST-124,Derek,Simmons,d.simmons@pacificpower.com,,Pacific Power,Energy,West,Active,2026-03-17,$19,400.00,"TrackPro Suite, Widget Pro 2000",3,7,Missing phone; escalation pending
+CUST-125,Tanya,Rivera,t.rivera@cascaderetail.com,+1-503-555-1919,Cascade Retail,Retail,West,Active,17-Mar-2026,$6,200.00,Widget Pro 2000,0,8,
+CUST-126,Gregory,Foster,g.foster@hartfordmfg.com,+1-860-555-2020,Hartford Manufacturing,Manufacturing,Northeast,Active,03/18/2026,$27,300.00,TrackPro Suite,1,10,
+CUST-127,Vanessa,Hughes,v.hughes@stellarmarketing.co,+1-773-555-2121,Stellar Marketing,Marketing,Midwest,Active,2026-03-19,$4,100.00,"DataSync Premium, CloudBackup Basic",0,8,
+CUST-128,Carlos,Diaz,carlos.diaz@unioncredit.com,+1-617-555-2222,Union Credit,Finance,Northeast,Inactive,2025-12-10,$1,750.00,CloudBackup Basic,0,5,
+CUST-129,Helen,Thornton,h.thornton@bayareatech.net,+1-415-555-2323,Bay Area Tech,Technology,West,Active,19-Mar-2026,$38,000.00,"TrackPro Suite, DataSync Premium, Widget Pro 2000",2,9,
+CUST-130,Marcus,Brown,marcus.brown@elevateglobal.com,+1-404-555-0606,Elevate Global,Consulting,South,Active,2026-03-11,$9,200.00,"TrackPro Suite, CloudBackup Basic",0,9,Duplicate of CUST-108

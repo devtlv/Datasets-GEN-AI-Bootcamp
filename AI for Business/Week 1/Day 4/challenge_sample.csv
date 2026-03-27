@@ -1,0 +1,21 @@
+Customer ID,First Name,Last Name,Email,Region Office,Registration Date,Last Purchase Date,Total Spend,Zip Code,Status,Notes
+CUST-3001,Sarah,Mitchell,sarah.mitchell@brightcorp.com,North,03/15/2025,03/10/2026,$4,520.00,10001,Active,
+CUST-3002,David,Chen,david.chen@techwave.io,West,2025-04-22,2026-03-08,$12,300.00,,Active,Missing zip code
+CUST-3001,Sarah,Mitchell,sarah.mitchell@brightcorp.com,North,03/15/2025,10-Mar-2026,$4,520.00,10001,Active,Duplicate of CUST-3001
+CUST-3003,Amanda,Torres,amanda.torres@greenfield.com,South,22-Apr-2025,08-Mar-2026,$7,800.00,30301,Active,
+CUST-3004,James,O'Brien,jobrien@novahealthcare.net,North,05/10/2025,03/05/2026,$3,150.00,02101,Active,
+CUST-3005,Rachel,Kim,rachel.kim@summitretail.com,North,2025-06-01,2026-01-15,$950.00,,Inactive,Missing zip code
+CUST-3006,Tom,Nguyen,t.nguyen@alphalogistics.com,West,01-Jun-2025,05-Mar-2026,$18,600.00,97201,Active,
+CUST-3007,Jennifer,Walsh,jwalsh@cityfinancial.org,North,06/20/2025,03/12/2026,$5,400.00,10005,Active,
+CUST-3007,Jennifer,Walsh,jwalsh@cityfinancial.org,North,2025-06-20,2026-03-12,$5,400.00,10005,Active,Duplicate of CUST-3007
+CUST-3008,Marcus,Brown,marcus.brown@elevateglobal.com,South,20-Jun-2025,11-Mar-2026,$9,200.00,30303,Active,
+CUST-3009,Lisa,Fernandez,l.fernandez@peakmanufacture.com,Central,07/14/2025,03/11/2026,$21,000.00,44101,Active,
+CUST-3010,Chris,Patel,chris.patel@brightcorp.com,North,2025-08-05,2026-03-09,$6,750.00,,Active,Missing zip code
+CUST-3011,Nicole,Stewart,nicole.stewart@bluehorizon.co,West,05-Aug-2025,20-Feb-2026,$1,200.00,80201,Inactive,
+CUST-3012,Robert,Yamamoto,r.yamamoto@deltaconstruct.net,South,08/30/2025,03/07/2026,$14,400.00,77001,Active,
+CUST-3013,Emily,Carter,emily.carter@northstarenergy.com,Central,2025-09-12,2026-03-06,$8,100.00,,Active,Missing zip code
+CUST-3014,Anthony,Reyes,a.reyes@primepharma.com,North,12-Sep-2025,06-Mar-2026,$33,500.00,19101,Active,
+CUST-3015,Stephanie,Lee,stephanie.lee@coastalwholesale.com,West,10/01/2025,03/14/2026,$4,900.00,92101,Active,
+CUST-3014,Anthony,Reyes,a.reyes@primepharma.com,North,2025-10-01,2026-03-06,$33,500.00,19101,Active,Duplicate of CUST-3014
+CUST-3016,Kevin,Morris,kevin.morris@apexinsurance.com,North,01-Oct-2025,14-Mar-2026,$11,700.00,10017,Active,
+CUST-3017,Diana,Holloway,d.holloway@urbanproperties.net,South,11/15/2025,2025-11-30,$2,300.00,,Inactive,Missing zip code
